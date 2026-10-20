@@ -3,19 +3,19 @@ PyHamcrest
 
 | |docs| |status| |version| |downloads|
 
-.. |docs| image:: https://readthedocs.org/projects/pyhamcrest/badge/?version=latest
+.. |docs| image:: https://img.shields.io/readthedocs/pyhamcrest/latest?style=flat&labelColor=000000
     :target: https://pyhamcrest.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
 
-.. |status| image:: https://github.com/hamcrest/PyHamcrest/workflows/CI/badge.svg
+.. |status| image:: https://img.shields.io/github/actions/workflow/status/hamcrest/PyHamcrest/main.yml?label=CI&style=flat&labelColor=000000
     :alt: CI Build Status
     :target: https://github.com/hamcrest/PyHamcrest/actions?query=workflow%3ACI
 
-.. |version| image:: http://img.shields.io/pypi/v/PyHamcrest.svg?style=flat
+.. |version| image:: http://img.shields.io/pypi/v/PyHamcrest.svg?style=flat&labelColor=000000&color=66023C
     :alt: PyPI Package latest release
     :target: https://pypi.python.org/pypi/PyHamcrest
 
-.. |downloads| image:: http://img.shields.io/pypi/dm/PyHamcrest.svg?style=flat
+.. |downloads| image:: http://img.shields.io/pypi/dm/PyHamcrest.svg?style=flat&labelColor=000000&color=66023C
     :alt: PyPI Package monthly downloads
     :target: https://pypi.python.org/pypi/PyHamcrest
 
